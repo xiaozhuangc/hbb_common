@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["desk.meeuu.com"];
-pub const RS_PUB_KEY: &str = "d8xTQrX7KrJcd35ZmCDJk26FB47sFUKQ24GKVdx8U1A=";
+pub const RS_PUB_KEY: &str = "bOuJt5TlkF2KrLdN9MdXSVMMQdLCaDfeQvrhTUDzjgk=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
